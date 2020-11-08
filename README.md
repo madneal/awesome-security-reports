@@ -6,6 +6,10 @@
 
 # Other
 
+## Serialization
+
+* [Exploiting Spring Boot Actuators](https://www.veracode.com/blog/research/exploiting-spring-boot-actuators)
+
 ## Authentication
 
 * [Duo Finds SAML Vulnerabilities Affecting Multiple Implementations](https://duo.com/blog/duo-finds-saml-vulnerabilities-affecting-multiple-implementations)
