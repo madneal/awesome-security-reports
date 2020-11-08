@@ -10,3 +10,7 @@
 
 * [Duo Finds SAML Vulnerabilities Affecting Multiple Implementations](https://duo.com/blog/duo-finds-saml-vulnerabilities-affecting-multiple-implementations)
 * [Hacking GitHub with Unicode's dotless 'i'](https://eng.getwisdom.io/hacking-github-with-unicode-dotless-i/)
+
+## 0 day
+
+* [Showcasing the Importance of Secure Defaults with a PyYAML 0day](https://blog.arxenix.dev/pyyaml-cve/)
