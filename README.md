@@ -9,6 +9,7 @@
 ## Serialization
 
 * [Exploiting Spring Boot Actuators](https://www.veracode.com/blog/research/exploiting-spring-boot-actuators)
+* [RUBY 2.X UNIVERSAL RCE DESERIALIZATION GADGET CHAIN](https://www.elttam.com//blog/ruby-deserialization/)
 
 ## Authentication
 
