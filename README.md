@@ -19,3 +19,4 @@
 ## 0 day
 
 * [Showcasing the Importance of Secure Defaults with a PyYAML 0day](https://blog.arxenix.dev/pyyaml-cve/)
+* [How to get root on Ubuntu 20.04 by pretending nobody’s /home](https://securitylab.github.com/research/Ubuntu-gdm3-accountsservice-LPE)
