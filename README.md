@@ -4,6 +4,10 @@
 
 * [uber.com may RCE by Flask Jinja2 Template Injection](https://hackerone.com/reports/125980)
 
+## Remote Code Execution
+
+* [Websites Can Run Arbitrary Code on Machines Running the 'PlayStation Now' Application](https://hackerone.com/reports/873614)
+
 # Other
 
 ## Serialization
